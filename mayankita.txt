@@ -1,3 +1,5 @@
 cherry
 mango
-next
+blueberry
+strawberry
+apples
